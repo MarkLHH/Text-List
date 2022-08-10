@@ -6,7 +6,6 @@ inanis
 amelia
 calli
 gura
-calliope
 mori
 aardvark
 aardvarks
